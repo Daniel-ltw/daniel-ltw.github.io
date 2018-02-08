@@ -2,9 +2,11 @@ FROM ruby:2.4-alpine
 
 WORKDIR /app
 
+RUN apk --update --no-cache add g++ make
+
 COPY . /app
 
-RUN apk --update --no-cache add g++ make && bundle install
+RUN bundle install
 
 ENTRYPOINT bundle exec jekyll serve -H 0.0.0.0
 
