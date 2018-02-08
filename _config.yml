@@ -32,6 +32,11 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
+
+tag_page_layout: tag_page
+tag_page_dir: tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

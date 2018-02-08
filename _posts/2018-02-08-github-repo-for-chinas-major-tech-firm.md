@@ -2,11 +2,7 @@
 title: Github repo for China's Major Tech Firm
 layout: post
 date: '2018-02-08 11:06:24 +1300'
-categories:
-  - github
-  - china
-  - tech
-  - giant
+tags: github china tech giant
 published: true
 ---
 
