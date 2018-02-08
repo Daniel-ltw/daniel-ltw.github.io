@@ -1,8 +1,13 @@
 ---
 title: Github repo for China's Major Tech Firm
 layout: post
-date: 2018-02-08 11:06:24 +1300
-categories: github china tech giant
+date: '2018-02-08 11:06:24 +1300'
+categories:
+  - github
+  - china
+  - tech
+  - giant
+published: true
 ---
 
 Recently, I would browse through [Github](https://github.com) and notice how these companies have started to show up.
@@ -20,6 +25,3 @@ Here is a list that I have compiled.
 | **[Huawei](http://www.huawei.com/en/)**               | [https://github.com/Huawei](https://github.com/Huawei)   | [https://www.crunchbase.com/organization/huawei](https://www.crunchbase.com/organization/huawei)         |
 | **[Tencent](https://www.tencent.com/en-us/)**         | [https://github.com/Tencent](https://github.com/Tencent) | [https://www.crunchbase.com/organization/tencent](https://www.crunchbase.com/organization/tencent)       |
 | **[Xiaomi](http://www.mi.com/index.html)**            | [https://github.com/XiaoMi](https://github.com/XiaoMi)   | [https://www.crunchbase.com/organization/xiaomi](https://www.crunchbase.com/organization/xiaomi)         |
-
-
-
