@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Daniel Leong personal blog hosted by Github Pages
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-repository: 'daniel-ltw/daniel-ltw.github.io'
+repository: daniel-ltw/daniel-ltw.github.io
 
 author:
   name   : "Daniel Leong"
@@ -32,8 +32,6 @@ author:
 
     His current role, Senior Software Designer @ Strategyblocks, involved a fair amount of devops related work. This includes systems and software design and implementation.
   email  : daniel.ltw@gmail.com
-  uri    : ''
-  home   : '/'
 twitter:
   username: casilan
 github:
@@ -46,7 +44,7 @@ medium:
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: contrast
 plugins:
   - jekyll-remote-theme
