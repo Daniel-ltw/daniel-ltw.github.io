@@ -71,14 +71,14 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
 
-comments:
-  provider: staticman_v2
-staticman:
-  branch: master
+# comments:
+#   provider: staticman_v2
+# staticman:
+#   branch: master
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
