@@ -2,9 +2,9 @@ FROM ruby:2.4-alpine
 
 WORKDIR /app
 
-RUN apk --update --no-cache add g++ make libcurl
+RUN apk --update --no-cache add g++ make libcurl git
 
-COPY ["Gemfile", "Gemfile.lock", "/app/"]
+COPY ["Gemfile", "/app/"]
 
 RUN bundle install
 
