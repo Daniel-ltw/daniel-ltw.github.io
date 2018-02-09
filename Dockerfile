@@ -2,11 +2,13 @@ FROM ruby:2.4-alpine
 
 WORKDIR /app
 
-RUN apk --update --no-cache add g++ make
+RUN apk --update --no-cache add g++ make libcurl
 
-COPY . /app
+COPY ["Gemfile", "Gemfile.lock", "/app/"]
 
 RUN bundle install
+
+COPY . /app
 
 ENTRYPOINT bundle exec jekyll serve -H 0.0.0.0
 

@@ -1,6 +1,6 @@
 ---
 title: Github repo for China's Major Tech Firm
-layout: post
+layout: single
 date: '2018-02-08 11:06:24 +1300'
 tags: github china tech giant
 published: true
