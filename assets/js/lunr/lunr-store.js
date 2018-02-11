@@ -3,4 +3,9 @@ var store = [{
         "excerpt":"Recently, I would browse through Github and notice how these companies have started to show up.Here is a list that I have compiled.Will update this as I find new ones. Company Github Org Link Crunchbase Profile Alibaba https://github.com/alibaba https://www.crunchbase.com/organization/alibaba Baidu https://github.com/baidu https://www.crunchbase.com/organization/baidu Didi Chuxing https://github.com/didi https://www.crunchbase.com/organization/didi-dache Huawei https://github.com/Huawei https://www.crunchbase.com/organization/huawei Tencent...","categories": [],
         "tags": ["github","china","tech","giant"],
         "url": "/2018/02/07/github-repo-for-chinas-major-tech-firm.html",
+        "teaser":null},{
+        "title": "Open Source Autonomous Driving for Everyone",
+        "excerpt":"Had a read on Medium this morning and saw an article that relates to autonomous driving.Eon uses Comma.AI OpenPilot project to help automate your vehicle. You have to hook it up to your vehicle’s CAN bus/ODB2 system to allow it to detect and maneuver the vehicle for you, this is...","categories": [],
+        "tags": ["github","commaai","openpilot","autonomous","driving"],
+        "url": "/2018/02/11/open-source-autonomous-driving.html",
         "teaser":null}]
